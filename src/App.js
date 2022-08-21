@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import './App.css';
 
 function App() {
-  const [time, setTime] = useState(new Date());
+  const time = new Date();
   const margin = useCalculateMargin();
 
   console.log(margin)
