@@ -4,7 +4,6 @@ import './App.css';
 
 function App() {
   const [time, setTime] = useState(new Date());
-  const size = useWindowSize();
   const margin = useCalculateMargin();
 
   console.log(margin)
