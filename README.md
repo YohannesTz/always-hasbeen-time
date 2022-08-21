@@ -1,6 +1,6 @@
 # Always has been
 we tell time through the famous ** It alway has been ** meme. I was inspired when I was scrolling
-over reddit and stumbled across [this](https://www.reddit.com/r/ArduinoProjects/comments/i06i30/eink_clock/) post.
+over reddit and stumbled across [this](https://www.reddit.com/r/ArduinoProjects/comments/i06i30/eink_clock/) post. I don't think it will help anyone but its a good troll material.
 
 
 # Origin and background as explained [here](https://www.dailydot.com/unclick/always-has-been-memes/)
