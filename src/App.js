@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div style={{ marginLeft: margin.leftMargin, marginTop: margin.topMargin }}>
-      <h1 className='AppText'>WAIT... IT'S {time.toLocaleTimeString()}</h1>
+      <h1 className='AppText'>WAIT... IT'S {time.toLocaleTimeString()}?</h1>
     </div>
   );
 }
